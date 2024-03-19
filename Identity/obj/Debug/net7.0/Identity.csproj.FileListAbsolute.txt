@@ -1,0 +1,17 @@
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Identity.deps.json
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Identity.dll
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Identity.pdb
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Application.dll
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Domain.dll
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Application.pdb
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\bin\Debug\net7.0\Domain.pdb
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.csproj.AssemblyReference.cache
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.AssemblyInfoInputs.cache
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.AssemblyInfo.cs
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.csproj.CoreCompileInputs.cache
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.csproj.CopyComplete
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.dll
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\refint\Identity.dll
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\Identity.pdb
+C:\_workingDir\utProjects\jiraniRide.UT\Identity\obj\Debug\net7.0\ref\Identity.dll
